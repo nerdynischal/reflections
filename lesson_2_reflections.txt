@@ -5,4 +5,12 @@ It adds the .git file to start tracking the history.
 How is the staging area different from the working directory and the repository?
 What value do you think it offers?
 
-It prepares the files to be committed and ready to be tracked. Value: prep?  
+It prepares the files to be committed and ready to be tracked. Value: prep?
+
+How can you use the staging area to make sure you have one commit per logical change?
+
+Adding to it and comparing the diff betweeen files
+
+What are some situations when branches would be helpful in keeping your history organized? How would branches help?
+
+When you are experimenting with new ideas and want a back up 
