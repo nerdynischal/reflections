@@ -13,4 +13,12 @@ Adding to it and comparing the diff betweeen files
 
 What are some situations when branches would be helpful in keeping your history organized? How would branches help?
 
-When you are experimenting with new ideas and want a back up 
+When you are experimenting with new ideas and want a back up
+
+How do the diagrams help you visualize the branch structure?
+
+better structure for unreachable commits
+
+What are the pros and cons of Git’s automatic merging vs. always doing merges manually?
+
+Better control overall
